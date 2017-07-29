@@ -6,6 +6,7 @@ setup(
     author=u'Matthias Rebel',
     author_email='webmaster@rebeling.net',
     license='MIT',
+    url='https://github.com/rebeling/lektor-amp',
     py_modules=['lektor_amp'],
     entry_points={
         'lektor.plugins': [

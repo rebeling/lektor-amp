@@ -3,6 +3,7 @@ from setuptools import setup
 setup(
     name='lektor-amp',
     version='0.1',
+    description='Create an amp version of your website.',
     author=u'Matthias Rebel',
     author_email='webmaster@rebeling.net',
     license='MIT',

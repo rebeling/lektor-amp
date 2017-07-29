@@ -7,7 +7,7 @@ This plugin creates an [Accelerate Mobile Page (AMP)](https://www.ampproject.org
 To enable the plugin run this command:
 
 ```bash
-lektor plugins add amp
+lektor plugins add lektor-amp
 ```
 
 ## Configuring the Plugin
@@ -23,7 +23,7 @@ generate_amp = false
 
 It expects an amp template version, prefixed with **amp-** of the templates.
 Basic example for lektors basic blog module templates is in the github repo
-(see [repo](https://github.com/rebeling/lektor-amp/example)).
+(see [repo](https://github.com/rebeling/lektor-amp/tree/master/example)).
 Just copy theses files into a fresh lektor 3.0 templates folder.
 
 ```html
